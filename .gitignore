@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+001HelloWord/.idea/
+
+001HelloWord/.settings/
+
+002Hello/.settings/
